@@ -1,0 +1,24 @@
+{
+  "name": "ignite-templates",
+  "version": "1.0.0",
+  "description": ".ejs template for code generation with ignite by infinitered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johkade/ignite-templates.git"
+  },
+  "keywords": [
+    "ignite",
+    "templates",
+    "codegen"
+  ],
+  "author": "johkade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johkade/ignite-templates/issues"
+  },
+  "homepage": "https://github.com/johkade/ignite-templates#readme"
+}
